@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{CA4B2EEA-DEAA-A9A7-7ECD-FEAE5F8EEF86}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GuidePanelHandler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ColorSettings.cs">
     <Files>
       <File FileName="Assets/Scripts/GuidePanelHandler.cs" Line="24" Column="22" />
       <File FileName="Assets/Scripts/Player.cs" Line="31" Column="25" />
@@ -7,6 +7,8 @@
       <File FileName="Assets/Scripts/ObjectSpawner.cs" Line="55" Column="5" />
       <File FileName="Assets/Scripts/LoadGame.cs" Line="72" Column="23" />
       <File FileName="Assets/Scripts/Fader.cs" Line="32" Column="23" />
+      <File FileName="Assets/Scripts/ColorSettingsSlider.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ColorSettings.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

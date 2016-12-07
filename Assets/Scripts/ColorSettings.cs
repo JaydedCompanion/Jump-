@@ -72,7 +72,7 @@ public class ColorSettings : MonoBehaviour {
 
 	public float GetSliderPrefs (string SliderColor) {
 
-		return PlayerPrefs.GetFloat (SliderColor);
+		return PlayerPrefs.GetFloat (SliderColor, 1);
 
 	}
 
