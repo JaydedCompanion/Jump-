@@ -1,0 +1,22 @@
+
+    <languages>
+    
+        <English>
+            <string name="app_name">Eye Training</string>
+            <string name="description">A compilation of mini-games with a bichromatic color scheme</string>
+            <string name="instructions">Set the colors for the red and blue lens such that the red elements are not visible through the red lens, and vice versa</string>
+        </English>
+        
+        <Spanish>
+            <string name="app_name">Entrenamiento de Ojos</string>
+            <string name="description">Una compilación de mini-juegos con colores bicromáticos</string>
+            <string name="instructions">Set the colors for the red and blue lens such that the red elements are not visible through the red lens, and vice versa</string>
+        </Spanish>
+        
+        <French>
+            <string name="app_name">Formation des yeux</string>
+            <string name="description">Une compilation de mini-jeux avec couleurs bichromatiques</string>
+            <string name="instructions">Réglez les couleurs pour la lentille rouge et bleu de telle sorte que les éléments rouges ne sont pas visibles à travers la lentille rouge, et vice versa</string>
+        </French>
+        
+    </languages>

@@ -1,0 +1,10 @@
+Library/
+Library/*
+obj/
+obj/*
+tmp/
+tmp/*
+temp/
+temp/*
+Jump\!\ \(iOS\ Project\)/
+Jump\!\ \(iOS\ Project\)*
